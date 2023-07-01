@@ -14,7 +14,7 @@
 
 #### Support
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+Find the Content Useful? [You can always buy me a coffee](https://bmc.link/sanjeevkrsingh)
 
 #### Create New React App
 
