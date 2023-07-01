@@ -2,12 +2,6 @@
 
 [Working Application - Deployed](https://backroads-trip-by-sanjeev.netlify.app/)
 
--   backroads-html - working html/css/javascript project (contains assets)
--   final(complete source code) - working react application
-    -   navigate to the folder
-    -   run 'npm install'
-    -   once the dependencies are installed run 'npm start'
-
 #### Support
 
 Find the Content Useful? [You can always buy me a coffee](https://bmc.link/sanjeevkrsingh)
